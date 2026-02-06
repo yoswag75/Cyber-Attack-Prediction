@@ -143,5 +143,3 @@ The application is capable of automatically fetching a sample dataset if one is 
 ## 📝 License
 
 This project is licensed under the GNU License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
-
----
